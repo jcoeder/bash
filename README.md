@@ -10,4 +10,4 @@
 `wget -O - https://raw.githubusercontent.com/jcoeder/bash/master/install-docker-ce.sh | bash -i`
 
 ### Copy SSH Key
-`./copy-ssh-key.sh SERVERNAME
+`./copy-ssh-key.sh SERVERNAME`
