@@ -11,3 +11,9 @@
 
 ### Copy SSH Key
 `./copy-ssh-key.sh SERVERNAME`
+
+### Install Python 3.7.2
+`wget -O - https://raw.githubusercontent.com/jcoeder/bash/master/install-python-3-7-2.sh | bash -i`
+
+### Install Python 3.7.4
+`wget -O - https://raw.githubusercontent.com/jcoeder/bash/master/install-python-3-7-4.sh | bash -i`
