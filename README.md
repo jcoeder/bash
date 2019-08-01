@@ -17,3 +17,6 @@
 
 ###  CentOS7 Install Python 3.7.4
 `wget -O - https://raw.githubusercontent.com/jcoeder/bash/master/install-python-3-7-4.sh | bash -i`
+
+###  CentOS7 Install Python 3.8.0b3
+`wget -0 - https://raw.githubusercontent.com/jcoeder/bash/master/install-python-3-8-0b3.sh | bash -i`
