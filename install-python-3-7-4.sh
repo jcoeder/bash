@@ -6,3 +6,4 @@ sudo tar xzf Python-3.7.4.tgz
 cd Python-3.7.4
 sudo ./configure --enable-optimizations
 sudo make altinstall
+pip3.7 install virtualenv --user
