@@ -13,3 +13,6 @@ pip3.7 install --upgrade pip
 python3.7 -m venv SaltStack
 source SaltStack/bin/activate
 pip install salt
+pip install --upgrade pip
+pip install --upgrade wheel
+pip install --upgrade pip
