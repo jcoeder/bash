@@ -24,5 +24,5 @@
 ###  CentOS7 Install Python 3.8.0b3
 `wget -O - https://raw.githubusercontent.com/jcoeder/bash/master/install-python-3-8-0b3.sh | bash -i`
 
-### CentOS7 Install Python3.7.3 and SaltStack
+### CentOS7 Install Python3.7.4 and SaltStack
 `wget -O - https://raw.githubusercontent.com/jcoeder/bash/master/install-salt.sh | bash -i`
