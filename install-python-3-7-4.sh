@@ -7,3 +7,6 @@ cd Python-3.7.4
 sudo ./configure --enable-optimizations
 sudo make altinstall
 pip3.7 install virtualenv --user
+pip3.7 install --upgrade pip
+pip3.7 install --upgrade wheel
+pip3.7 install --upgrade pip
